@@ -10,7 +10,7 @@ import "./index.css";
 
 const siteProps = {
   name: "Divyansh Patel",
-  title: "Full Stack Developer",
+  title: "Web Developer",
   email: "divyanshgopal474@gmail.com",
   gitHub: "DGking474",
   instagram: "_itz_dg__6",

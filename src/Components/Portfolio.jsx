@@ -4,28 +4,28 @@ import image from "../images/design-desk.jpeg";
 const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
-    title: "Text Converter Transformer",
+    title: "Paradise Pulse - Resort Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://github.com/DGking474/Text_Converter_Transformer",
+      "Designed an interactive front-end for booking rooms, guest check-ins, and billing. Implemented automated invoicing and real-time status updates using dynamic DOM manipulation.",
+    url: "https://github.com/DGking474/Paradise-Pulse--Resort-Management-System-",
   },
   {
     title: "Job Recruitment System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Developed a web portal for job matching with resume builder, job tracking, and AI suggestions. Focused on user experience design and responsive layouts.",
     url: "https://github.com/DGking474/Job-Recruitment-System_Frontend",
   },
   {
-    title: "My Resume Site",
+    title: "VegBazaar",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/DGking474/ResumeDG",
+      "Built a full-stack grocery web app with CRUD operations, cart management, and product listing. Integrated RESTful APIs to fetch and manage data dynamically. Designed responsive UI using Tailwind CSS, enhancing mobile and desktop usability",
+    url: "https://github.com/DGking474/VegBazaar",
   },
   {
-    title: "Tic Tac Toe",
+    title: "My Shop - Personal Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://github.com/DGking474/Tic_Tac_Toe",
+      "Developed a product management system with authentication, role-based access, and admin dashboard. Used React Hooks, Axios, and Context API for seamless state and data flow.",
+    url: "https://github.com/DGking474/myshop-strapi",
   },
 ];
 

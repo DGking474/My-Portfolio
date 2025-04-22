@@ -3,18 +3,18 @@ import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";
 const description =
-  "I'm a Web Developer student studying at LDRP of Institute and Research University. I enjoy creating unique and simplistic Website in creative ways.";
+  "I’m a passionate Full-Stack Developer eager to create dynamic, user-friendly web applications.";
 const skillsList = [
-  "Web development",
-  "User experience",
-  "Enclusive design",
-  "Leadership",
-  "Attractive websites",
-  "Better ability to understand",
+  "Web Developer",
+  "ReactJS Developer",
+  "Make Responsive Design",
+  "Team Lead",
+  "Git and Github",
+  "Deep Learner",
 ];
 
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Web developer experience I continually look for new and better ways to make tech accessible by all.";
+  "Work Experience at the Special Character at Ahmedabad, India as Developer - Intern role.";
 
 const About = () => {
   return (
